@@ -94,7 +94,7 @@ bool checkWin() {
 
 int main()
 {   bool status = false;
-
+    int count = 100;
     do {
     display_board();
     playerMove();
